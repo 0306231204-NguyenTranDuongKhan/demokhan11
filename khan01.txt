@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Xin chào mình là Khan Khan khan
 
+=======
+Xin chào mình là Khan khan
+>>>>>>> 1631e3ab134a00bd5f9d358be2b897316f0a97e7
